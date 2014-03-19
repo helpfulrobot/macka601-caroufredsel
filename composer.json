@@ -1,0 +1,17 @@
+{
+	"name": "macka601/carouFredSel",
+	"description": "SilverStripe carouFredSel Module",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe","carousel","image gallery","carouFredSel"],
+	"authors": [
+		{
+			"name": "Grant McEwan",
+			"email": "macka601@gmail.com"
+		}
+	],
+	"require": 
+	{
+		"silverstripe/framework": "3.*",
+		"silverstripe/cms": "3.*"
+	}
+}
