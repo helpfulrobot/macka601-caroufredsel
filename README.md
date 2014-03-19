@@ -5,7 +5,8 @@ silverstripe-carouFredSel
 
  * Grant McEwan(Nickname: macka^) <macka601 (at) gmail (dot) com>
 
-carouFredSel plugin for the silverstripe module that allows
+carouFredSel plugin for the silverstripe module that allows a user to add photos or images to a page
+and then configure basic settings for the carousel javascript plugin
 
 ## Requirements
 
