@@ -1,8 +1,8 @@
 {
-	"name": "macka601/carouFredSel",
+	"name": "macka601/caroufredsel",
 	"description": "SilverStripe carouFredSel Module",
 	"type": "silverstripe-module",
-	"keywords": ["silverstripe","carousel","image gallery","carouFredSel"],
+	"keywords": ["silverstripe","carousel","image gallery","caroufredsel"],
 	"authors": [
 		{
 			"name": "Grant McEwan",
