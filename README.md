@@ -23,5 +23,6 @@ and then configure basic settings for the carousel javascript plugin
 2. Edit the new page 
 3. Drag images into the "Photos" area
 4. Change Carousel settings by using the "Settings" tab
+5. In your Page.ss, put a <% include CarouFredSel %>. This will instruct SS on where to place your carousel.
 
 Carousel does have a default css located in the css folder, customize this as needed to your needs
