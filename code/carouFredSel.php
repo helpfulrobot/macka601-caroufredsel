@@ -109,12 +109,12 @@ class CarouFredSelPage_Controller extends Page_Controller {
 		. "});});");
 
 		Requirements::css("CarouFredSel/css/carouFredSel.css");
-	    Requirements::javascript("CarouFredSel/javascript/jquery-1.8.2.min.js");
-	    Requirements::javascript("CarouFredSel/javascript/jquery.carouFredSel-6.2.1-packed.js");
-	    Requirements::javascript("CarouFredSel/javascript/helper-plugins/jquery.mousewheel.min.js");
-	    Requirements::javascript("CarouFredSel/javascript/helper-plugins/jquery.touchSwipe.min.js");
-	    Requirements::javascript("CarouFredSel/javascript/helper-plugins/jquery.touchSwipe.min.js");
-	    Requirements::javascript("CarouFredSel/javascript/helper-plugins/jquery.ba-throttle-debounce.min.js");
+	    Requirements::javascript("caroufredsel/javascript/jquery-1.8.2.min.js");
+	    Requirements::javascript("caroufredsel/javascript/jquery.carouFredSel-6.2.1-packed.js");
+	    Requirements::javascript("caroufredsel/javascript/helper-plugins/jquery.mousewheel.min.js");
+	    Requirements::javascript("caroufredsel/javascript/helper-plugins/jquery.touchSwipe.min.js");
+	    Requirements::javascript("caroufredsel/javascript/helper-plugins/jquery.touchSwipe.min.js");
+	    Requirements::javascript("caroufredsel/javascript/helper-plugins/jquery.ba-throttle-debounce.min.js");
 
 	}
 
