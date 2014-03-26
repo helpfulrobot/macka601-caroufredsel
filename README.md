@@ -14,6 +14,10 @@ and then configure basic settings for the carousel javascript plugin
 
 ## Installation & Documentation
 
+### Composer
+1. ```composer require macka601/caroufredsel master```
+2. Visit yoursite.com/dev/build?flush=1 to rebuild the database.
+
 ### Manual
 1. Place this directory in the root of your SilverStripe installation, rename the folder 'CarouFredSel'.
 2. Visit yoursite.com/dev/build?flush=1 to rebuild the database.
