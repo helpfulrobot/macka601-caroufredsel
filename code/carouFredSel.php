@@ -108,7 +108,7 @@ class CarouFredSelPage_Controller extends Page_Controller {
 		. $this->getSwipeSettingsData()
 		. "});});");
 
-		Requirements::css("CarouFredSel/css/carouFredSel.css");
+		Requirements::css("caroufredsel/css/carouFredSel.css");
 	    Requirements::javascript("caroufredsel/javascript/jquery-1.8.2.min.js");
 	    Requirements::javascript("caroufredsel/javascript/jquery.carouFredSel-6.2.1-packed.js");
 	    Requirements::javascript("caroufredsel/javascript/helper-plugins/jquery.mousewheel.min.js");
